@@ -1,0 +1,1 @@
+Obliczanie wskaŸnika uwarunkowania macierzy A=A^T > 0 i diagonalnie silnie dominuj¹cej (cond_2(A)= ?_max/?_min  ). Do obliczenia ?max zastosowaæ zwyk³¹ metodê potêgow¹, a do obliczenia ?min odwrotn¹ metodê potêgow¹. Odpowiedni uk³ad równañ nale¿y rozwi¹zaæ metod¹ iteracyjn¹ Gaussa-Seidla.

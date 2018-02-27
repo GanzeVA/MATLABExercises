@@ -1,0 +1,1 @@
+Odwracanie macierzy metod¹ iteracji prostej SOR przez rozwi¹zywanie uk³adów równañ AX=I (I – macierz jednostkowa) z macierz¹ rozrzedzon¹ A.

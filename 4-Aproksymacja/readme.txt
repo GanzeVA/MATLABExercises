@@ -1,0 +1,1 @@
+Aproksymacja œredniokwadratowa ci¹g³a w przestrzeni funkcji sklejanych S1(delta_n, 0). Ca³kowanie z³o¿on¹ formu³¹ prostok¹tów (z punktem œrodkowym). Tablicowanie funkcji, przybli¿enia i b³êdu w m punktach oraz obliczanie b³êdu œredniokwadratowego w tych punktach.

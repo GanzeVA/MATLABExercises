@@ -1,0 +1,1 @@
+Interpolacja funkcjami kwadratowymi na kwadracie podzielonym na 2n2 trójk¹tów przystaj¹cych. Tablicowanie funkcji, przybli¿enia i b³êdu w œrodkach ciê¿koœci trójk¹tów. Obliczanie b³êdu maksymalnego w tych punktach.

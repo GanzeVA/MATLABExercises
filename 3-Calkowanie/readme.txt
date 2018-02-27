@@ -1,0 +1,1 @@
+Obliczanie ca³ek podwójnych z f(x,y) na obszarze D = D1-D2, gdzie D1=<-1,1>x<-1,1>, D2: |x|+|y| <= 1 przez podzia³ D na 4n2 trójk¹tów przystaj¹cych i zastosowanie na ka¿dym z nich kwadratury rzêdu 3-go.

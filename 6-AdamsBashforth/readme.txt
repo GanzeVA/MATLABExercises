@@ -1,0 +1,1 @@
+Metoda Adamsa-Bashfortha rzêdu 2-go dla uk³adu dwóch równañ. Wartoœci pocz¹tkowe y1 nale¿y obliczyæ ulepszon¹ metod¹ Eulera.
